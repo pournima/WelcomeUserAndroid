@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WelcomeUserAssignmentActivity!</string>
+    <string name="app_name">*******WelcomeUserAssignment*******</string>
+
+    <string name="UserName">User Name :</string>
+    <string name="UserAge">User Age :</string>
+    <string name="buttonOk">OK</string>
+</resources>
